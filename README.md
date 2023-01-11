@@ -31,4 +31,4 @@ Codul a fost scris in C si incarcat pe MCU cu ajutorul unui programmer pentru mi
 Ulterior, proiectul a fost realizat si pe arduino, pe platforma Arduino 2560. Aceasta platforma detine mai multe canale uart si astfel s-a putut adauga un modul bluetooth pentru a vizualiza datele pe telefonul mobil.
 
 
-In timpu
+**In timpul facultatii am realizat mai multe proiecte pe platforma Arduino, dar din cauza complexitatii scazute si a faptului ca se gasesc multe tutoriale pentru arduino nu cred ca merita amintite.
