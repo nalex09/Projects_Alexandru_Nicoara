@@ -13,5 +13,12 @@ Codul a fost scris in C si incarcat pe MCU cu ajutorul unui programmer pentru mi
 2. Sistem de control pentru iluminat.
 Sistemul are la baza un MCU ATMega328 si este un proiect relativ simplu. Prin intermediul acestui sistem se face comanda a 4 module de iluminat care functioneaza la 220V. Comanda se face prin intermediul MCU si a unor swich-uri aflate pe panoul de comanda. Dupa citirea starii swich-urilor, MCU schimba comanda releelor in functie de starea swich-urilor. 
 Ulterior, la acest proiect am folosit si un modul bt HC-05 si am reusit realizarea comenzii releelor de pe telefonul mobil.
+
 Codul a fost scris in C si incarcat pe MCU cu ajutorul unui programmer pentru microcontrollere AVR.
+
+Schema electrica:
+![image](https://user-images.githubusercontent.com/57752680/211856012-2280c122-7291-4f60-8239-351cc52955fe.png)
+Layout PCB: ![image](https://user-images.githubusercontent.com/57752680/211856112-57cb30be-e356-4150-ad0b-fc2255343524.png)
+PCB 3D: ![image](https://user-images.githubusercontent.com/57752680/211856169-c644ad05-a09e-4bfb-b852-d1c36878a2fe.png)
+
 
