@@ -20,7 +20,11 @@ Codul a fost scris in C si incarcat pe MCU cu ajutorul unui programmer pentru mi
 
 Schema electrica:
 ![image](https://user-images.githubusercontent.com/57752680/211856012-2280c122-7291-4f60-8239-351cc52955fe.png)
+
+
 Layout PCB: ![image](https://user-images.githubusercontent.com/57752680/211856112-57cb30be-e356-4150-ad0b-fc2255343524.png)
+
+
 PCB 3D: ![image](https://user-images.githubusercontent.com/57752680/211856169-c644ad05-a09e-4bfb-b852-d1c36878a2fe.png)
 
 3. Sistem de monitorizare a calitatii aerului si alarmare
